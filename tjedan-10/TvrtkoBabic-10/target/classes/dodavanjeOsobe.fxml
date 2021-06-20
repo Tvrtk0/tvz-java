@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="320.0" prefWidth="523.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.java.covidportal.controller.DodavanjeOsobeController">
+    <children>
+        <BorderPane prefHeight="400.0" prefWidth="600.0">
+            <top>
+                <fx:include fx:id="izbornik" source="resources/izbornik.fxml" />
+            </top>
+            <center>
+                <BorderPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+               <bottom>
+                        <GridPane vgap="5.0" BorderPane.alignment="CENTER">
+                            <columnConstraints>
+                                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                            </columnConstraints>
+                            <rowConstraints>
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            </rowConstraints>
+                            <children>
+                                <Label text="Dodavanje nove osobe" GridPane.columnSpan="3" GridPane.halignment="CENTER" GridPane.rowIndex="1">
+                                    <font>
+                                        <Font name="System Bold" size="18.0" />
+                                    </font>
+                                </Label>
+                                <Label text="Ime:" GridPane.halignment="RIGHT" GridPane.rowIndex="3">
+                                    <GridPane.margin>
+                                        <Insets right="10.0" />
+                                    </GridPane.margin>
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                </Label>
+                                <Label text="Boluje od:" GridPane.halignment="RIGHT" GridPane.rowIndex="7">
+                                    <GridPane.margin>
+                                        <Insets right="10.0" />
+                                    </GridPane.margin>
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                </Label>
+                                <Button mnemonicParsing="false" onAction="#spremi" text="Spremi" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="10">
+                           <padding>
+                              <Insets bottom="4.0" left="40.0" right="40.0" top="4.0" />
+                           </padding></Button>
+                        <Label text="Županija:" GridPane.halignment="RIGHT" GridPane.rowIndex="6">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                           <GridPane.margin>
+                              <Insets right="10.0" />
+                           </GridPane.margin>
+                        </Label>
+                        <TextField fx:id="prezimeText" GridPane.columnIndex="1" GridPane.columnSpan="2" GridPane.rowIndex="4">
+                           <GridPane.margin>
+                              <Insets right="100.0" />
+                           </GridPane.margin>
+                        </TextField>
+                        <TextField fx:id="imeText" GridPane.columnIndex="1" GridPane.columnSpan="2" GridPane.rowIndex="3">
+                           <GridPane.margin>
+                              <Insets right="100.0" />
+                           </GridPane.margin>
+                        </TextField>
+                        <Label text="Prezime:" GridPane.halignment="RIGHT" GridPane.rowIndex="4">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                           <GridPane.margin>
+                              <Insets right="10.0" />
+                           </GridPane.margin>
+                        </Label>
+                        <Label text="Datum rođenja:" GridPane.halignment="RIGHT" GridPane.rowIndex="5">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                           <GridPane.margin>
+                              <Insets right="10.0" />
+                           </GridPane.margin>
+                        </Label>
+                        <Label text="Kontaktirao:" GridPane.halignment="RIGHT" GridPane.rowIndex="8">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                           <GridPane.margin>
+                              <Insets right="10.0" />
+                           </GridPane.margin>
+                        </Label>
+                        <MenuButton fx:id="kontaktiMenuButton" mnemonicParsing="false" text="Odaberi" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+                        <ChoiceBox fx:id="zupanijeChoiceBox" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="6">
+                           <GridPane.margin>
+                              <Insets />
+                           </GridPane.margin>
+                        </ChoiceBox>
+                        <ChoiceBox fx:id="bolestiChoiceBox" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+                        <DatePicker fx:id="datumRodjenjaDatePicker" promptText="Odaberi" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                            </children>
+                        </GridPane>
+               </bottom></BorderPane>
+            </center>
+        </BorderPane>
+    </children>
+</AnchorPane>

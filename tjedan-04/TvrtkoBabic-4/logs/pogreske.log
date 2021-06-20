@@ -1,0 +1,148 @@
+2020-11-11 14:12:56,102 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-11 14:13:28,088 INFO [main] h.j.c.m.Glavna [Glavna.java:529] Unesen je broj stanovnika: 1000000
+2020-11-11 14:13:28,088 INFO [main] h.j.c.m.Glavna [Glavna.java:530] Unesen je broj zaraženih stanovnika: 20000
+2020-11-11 14:13:49,813 INFO [main] h.j.c.m.Glavna [Glavna.java:529] Unesen je broj stanovnika: 100000
+2020-11-11 14:13:49,814 INFO [main] h.j.c.m.Glavna [Glavna.java:530] Unesen je broj zaraženih stanovnika: 500
+2020-11-11 14:14:05,849 INFO [main] h.j.c.m.Glavna [Glavna.java:529] Unesen je broj stanovnika: 200000
+2020-11-11 14:14:05,850 INFO [main] h.j.c.m.Glavna [Glavna.java:530] Unesen je broj zaraženih stanovnika: 10000
+2020-11-11 14:14:40,463 INFO [main] h.j.c.m.Glavna [Glavna.java:365] Odabran/a je bolest(1)/virus(2): 1
+2020-11-11 14:14:48,049 INFO [main] h.j.c.m.Glavna [Glavna.java:389] Broj simptoma bolesti: 1
+2020-11-11 14:14:51,214 INFO [main] h.j.c.m.Glavna [Glavna.java:439] Odabran je simptom indexa: 1
+2020-11-11 14:15:02,658 INFO [main] h.j.c.m.Glavna [Glavna.java:365] Odabran/a je bolest(1)/virus(2): 2
+2020-11-11 14:15:07,870 INFO [main] h.j.c.m.Glavna [Glavna.java:389] Broj simptoma bolesti: 2
+2020-11-11 14:15:08,752 INFO [main] h.j.c.m.Glavna [Glavna.java:439] Odabran je simptom indexa: 1
+2020-11-11 14:15:09,466 INFO [main] h.j.c.m.Glavna [Glavna.java:439] Odabran je simptom indexa: 2
+2020-11-11 14:15:19,995 INFO [main] h.j.c.m.Glavna [Glavna.java:365] Odabran/a je bolest(1)/virus(2): 1
+2020-11-11 14:15:22,809 INFO [main] h.j.c.m.Glavna [Glavna.java:389] Broj simptoma bolesti: 1
+2020-11-11 14:15:23,693 INFO [main] h.j.c.m.Glavna [Glavna.java:439] Odabran je simptom indexa: 2
+2020-11-11 14:15:31,544 INFO [main] h.j.c.m.Glavna [Glavna.java:365] Odabran/a je bolest(1)/virus(2): 2
+2020-11-11 14:15:37,829 INFO [main] h.j.c.m.Glavna [Glavna.java:389] Broj simptoma bolesti: 1
+2020-11-11 14:15:38,914 INFO [main] h.j.c.m.Glavna [Glavna.java:439] Odabran je simptom indexa: 3
+2020-11-11 14:15:50,464 INFO [main] h.j.c.m.Glavna [Glavna.java:152] Unešena je starost osobe: 88
+2020-11-11 14:16:08,784 INFO [main] h.j.c.m.Glavna [Glavna.java:175] Odabrana je županija: 2
+2020-11-11 14:16:15,049 INFO [main] h.j.c.m.Glavna [Glavna.java:200] Odabrana je bolest: 4
+2020-11-11 14:16:39,252 INFO [main] h.j.c.m.Glavna [Glavna.java:152] Unešena je starost osobe: 77
+2020-11-11 14:16:44,330 INFO [main] h.j.c.m.Glavna [Glavna.java:175] Odabrana je županija: 1
+2020-11-11 14:16:52,793 INFO [main] h.j.c.m.Glavna [Glavna.java:200] Odabrana je bolest: 2
+2020-11-11 14:17:00,127 INFO [main] h.j.c.m.Glavna [Glavna.java:222] Broj kontakata je: 2
+2020-11-11 14:17:00,128 INFO [main] h.j.c.m.Glavna [Glavna.java:233] Odabran je broj koji nije u dozvoljenom dometu.
+2020-11-11 14:17:01,238 INFO [main] h.j.c.m.Glavna [Glavna.java:222] Broj kontakata je: 1
+2020-11-11 14:17:05,704 INFO [main] h.j.c.m.Glavna [Glavna.java:284] Odabran kontakt ima index: 1
+2020-11-11 14:17:05,705 INFO [main] h.j.c.m.Glavna [Glavna.java:303] Odabran je kontakt: Peric
+2020-11-11 14:17:13,211 INFO [main] h.j.c.m.Glavna [Glavna.java:152] Unešena je starost osobe: 33
+2020-11-11 14:17:16,184 INFO [main] h.j.c.m.Glavna [Glavna.java:175] Odabrana je županija: 3
+2020-11-11 14:17:20,580 INFO [main] h.j.c.m.Glavna [Glavna.java:200] Odabrana je bolest: 3
+2020-11-11 14:17:35,351 INFO [main] h.j.c.m.Glavna [Glavna.java:222] Broj kontakata je: 2
+2020-11-11 14:17:36,461 INFO [main] h.j.c.m.Glavna [Glavna.java:284] Odabran kontakt ima index: 2
+2020-11-11 14:17:36,462 INFO [main] h.j.c.m.Glavna [Glavna.java:303] Odabran je kontakt: Janic
+2020-11-11 14:17:37,445 INFO [main] h.j.c.m.Glavna [Glavna.java:284] Odabran kontakt ima index: 2
+2020-11-11 14:17:37,445 INFO [main] h.j.c.m.Glavna [Glavna.java:303] Odabran je kontakt: Janic
+2020-11-11 14:17:37,449 ERROR [main] h.j.c.m.Glavna [Glavna.java:309] Pogreška kod odabira kontakta. Odabrana osoba se već nalazi među kontaktiranim osobama!
+hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobe: Odabrana osoba se već nalazi među kontaktiranim osobama.
+	at hr.java.covidportal.main.Glavna.provjeraKontaktiranihOsoba(Glavna.java:344)
+	at hr.java.covidportal.main.Glavna.odabirKontaktiranihOsoba(Glavna.java:304)
+	at hr.java.covidportal.main.Glavna.unosOsobe(Glavna.java:237)
+	at hr.java.covidportal.main.Glavna.main(Glavna.java:81)
+2020-11-11 14:17:38,918 INFO [main] h.j.c.m.Glavna [Glavna.java:284] Odabran kontakt ima index: 1
+2020-11-11 14:17:38,918 INFO [main] h.j.c.m.Glavna [Glavna.java:303] Odabran je kontakt: Peric
+2020-11-11 14:17:38,930 INFO [main] h.j.c.m.Glavna [Glavna.java:95] Kraj programa.
+2020-11-12 13:49:47,574 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 13:49:57,031 INFO [main] h.j.c.m.Glavna [Glavna.java:519] Unesen je broj stanovnika: 1
+2020-11-12 13:49:57,032 INFO [main] h.j.c.m.Glavna [Glavna.java:520] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 13:50:31,358 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 13:54:38,478 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 13:54:43,911 INFO [main] h.j.c.m.Glavna [Glavna.java:531] Unesen je broj stanovnika: 1
+2020-11-12 13:54:43,912 INFO [main] h.j.c.m.Glavna [Glavna.java:532] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 13:54:54,465 ERROR [main] h.j.c.m.Glavna [Glavna.java:500] Pogreška kod unosa simptoma!
+java.lang.IllegalArgumentException: No enum constant hr.java.covidportal.enumeracije.VrijednostSimptoma.s
+	at java.base/java.lang.Enum.valueOf(Enum.java:273)
+	at hr.java.covidportal.enumeracije.VrijednostSimptoma.valueOf(VrijednostSimptoma.java:3)
+	at hr.java.covidportal.main.Glavna.unosSimptoma(Glavna.java:497)
+	at hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2020-11-12 13:55:39,941 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 13:55:57,891 INFO [main] h.j.c.m.Glavna [Glavna.java:531] Unesen je broj stanovnika: 1
+2020-11-12 13:55:57,891 INFO [main] h.j.c.m.Glavna [Glavna.java:532] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 13:56:12,858 ERROR [main] h.j.c.m.Glavna [Glavna.java:500] Pogreška kod unosa simptoma!
+java.lang.IllegalArgumentException: No enum constant hr.java.covidportal.enumeracije.VrijednostSimptoma.srednje
+	at java.base/java.lang.Enum.valueOf(Enum.java:273)
+	at hr.java.covidportal.enumeracije.VrijednostSimptoma.valueOf(VrijednostSimptoma.java:3)
+	at hr.java.covidportal.main.Glavna.unosSimptoma(Glavna.java:497)
+	at hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2020-11-12 13:57:01,390 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 13:57:05,800 INFO [main] h.j.c.m.Glavna [Glavna.java:530] Unesen je broj stanovnika: 1
+2020-11-12 13:57:05,801 INFO [main] h.j.c.m.Glavna [Glavna.java:531] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 13:57:14,452 ERROR [main] h.j.c.m.Glavna [Glavna.java:500] Pogreška kod unosa simptoma!
+java.lang.IllegalArgumentException: No enum constant hr.java.covidportal.enumeracije.VrijednostSimptoma.srednje
+	at java.base/java.lang.Enum.valueOf(Enum.java:273)
+	at hr.java.covidportal.enumeracije.VrijednostSimptoma.valueOf(VrijednostSimptoma.java:3)
+	at hr.java.covidportal.main.Glavna.unosSimptoma(Glavna.java:497)
+	at hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2020-11-12 13:57:50,944 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 13:57:55,911 INFO [main] h.j.c.m.Glavna [Glavna.java:530] Unesen je broj stanovnika: 1
+2020-11-12 13:57:55,912 INFO [main] h.j.c.m.Glavna [Glavna.java:531] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 13:58:22,780 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 13:58:25,912 INFO [main] h.j.c.m.Glavna [Glavna.java:530] Unesen je broj stanovnika: 1
+2020-11-12 13:58:25,912 INFO [main] h.j.c.m.Glavna [Glavna.java:531] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 13:58:45,695 ERROR [main] h.j.c.m.Glavna [Glavna.java:500] Pogreška kod unosa simptoma!
+java.lang.IllegalArgumentException: No enum constant hr.java.covidportal.enumeracije.VrijednostSimptoma.ČESTO
+	at java.base/java.lang.Enum.valueOf(Enum.java:273)
+	at hr.java.covidportal.enumeracije.VrijednostSimptoma.valueOf(VrijednostSimptoma.java:3)
+	at hr.java.covidportal.main.Glavna.unosSimptoma(Glavna.java:497)
+	at hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2020-11-12 14:01:59,638 ERROR [main] h.j.c.m.Glavna [Glavna.java:500] Pogreška kod unosa simptoma!
+java.lang.IllegalArgumentException: No enum constant hr.java.covidportal.enumeracije.VrijednostSimptoma.Grlo
+	at java.base/java.lang.Enum.valueOf(Enum.java:273)
+	at hr.java.covidportal.enumeracije.VrijednostSimptoma.valueOf(VrijednostSimptoma.java:3)
+	at hr.java.covidportal.main.Glavna.unosSimptoma(Glavna.java:497)
+	at hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2020-11-12 14:02:00,923 ERROR [main] h.j.c.m.Glavna [Glavna.java:500] Pogreška kod unosa simptoma!
+java.lang.IllegalArgumentException: No enum constant hr.java.covidportal.enumeracije.VrijednostSimptoma.Rijetko
+	at java.base/java.lang.Enum.valueOf(Enum.java:273)
+	at hr.java.covidportal.enumeracije.VrijednostSimptoma.valueOf(VrijednostSimptoma.java:3)
+	at hr.java.covidportal.main.Glavna.unosSimptoma(Glavna.java:497)
+	at hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2020-11-12 14:02:19,712 INFO [main] h.j.c.m.Glavna [Glavna.java:370] Odabran/a je bolest(1)/virus(2): 1
+2020-11-12 14:02:24,902 INFO [main] h.j.c.m.Glavna [Glavna.java:394] Broj simptoma bolesti: 1
+2020-11-12 15:18:18,634 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 15:18:25,911 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 1
+2020-11-12 15:18:25,912 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 15:18:30,805 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 1
+2020-11-12 15:18:30,805 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 15:18:36,192 ERROR [main] h.j.c.m.Glavna [Glavna.java:540] Pogreška kod unosa broja stanovnika jer je unešen String umjesto broja!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.covidportal.main.Glavna.unosZupanije(Glavna.java:530)
+	at hr.java.covidportal.main.Glavna.main(Glavna.java:47)
+2020-11-12 15:18:37,602 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 1
+2020-11-12 15:18:37,602 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 15:21:02,258 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 15:21:09,875 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 1
+2020-11-12 15:21:09,875 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 15:21:12,434 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 2
+2020-11-12 15:21:12,434 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 2
+2020-11-12 15:21:14,762 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 3
+2020-11-12 15:21:14,763 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 3
+2020-11-12 15:24:40,062 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 15:24:43,369 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 1
+2020-11-12 15:24:43,369 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 15:24:45,297 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 2
+2020-11-12 15:24:45,297 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 2
+2020-11-12 15:24:47,172 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 3
+2020-11-12 15:24:47,172 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 3
+2020-11-12 15:26:12,121 INFO [main] h.j.c.m.Glavna [Glavna.java:34] Pokenuta je aplikacija.
+2020-11-12 15:26:16,140 INFO [main] h.j.c.m.Glavna [Glavna.java:535] Unesen je broj stanovnika: 1
+2020-11-12 15:26:16,141 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 15:40:12,037 INFO [main] h.j.c.m.Glavna [Glavna.java:35] Pokenuta je aplikacija.
+2020-11-12 15:40:16,523 INFO [main] h.j.c.m.Glavna [Glavna.java:536] Unesen je broj stanovnika: 1
+2020-11-12 15:40:16,523 INFO [main] h.j.c.m.Glavna [Glavna.java:537] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 15:45:34,011 INFO [main] h.j.c.m.Glavna [Glavna.java:36] Pokenuta je aplikacija.
+2020-11-12 15:46:29,941 INFO [main] h.j.c.m.Glavna [Glavna.java:538] Unesen je broj stanovnika: 1
+2020-11-12 15:46:29,941 INFO [main] h.j.c.m.Glavna [Glavna.java:539] Unesen je broj zaraženih stanovnika: 1
+2020-11-12 15:50:47,303 INFO [main] h.j.c.m.Glavna [Glavna.java:36] Pokenuta je aplikacija.
+2020-11-12 15:51:08,831 INFO [main] h.j.c.m.Glavna [Glavna.java:537] Unesen je broj stanovnika: 1
+2020-11-12 15:51:08,831 INFO [main] h.j.c.m.Glavna [Glavna.java:538] Unesen je broj zaraženih stanovnika: 1
+2021-06-20 19:32:31,791 INFO [main] h.j.c.m.Glavna [Glavna.java:36] Pokenuta je aplikacija.
+2021-06-20 19:47:24,240 INFO [main] h.j.c.m.Glavna [Glavna.java:36] Pokenuta je aplikacija.
